@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Mohamed Abdirahman Abdullahi (Alas) 
 
-🚀 **Full Stack Engineer** | **Head of Software Development @ OAG Somalia**  
-💡 Passionate about **Software Engineering, MERN Stack, DevOps, and AI.**  
-🎯 Building **scalable** and **high-performance** software solutions.  
-
+🚀 Full Stack Engineer | Head of Software Development | Technical Leader & Mentor
+💡 Passionate about technical leadership, software architecture, DevOps, and AI-driven solutions
+🎯 Building scalable, high-performance software while driving innovation, mentoring engineers, and leading teams toward technical excellence.
 ---
 
 ## 🛠 **Tech Stack & Skills**
@@ -34,16 +33,9 @@
 
 ---
 
-*Brief description*  
-
-_(Pin your best GitHub repositories so they show up on your profile!)_
-
----
-
 ## 📫 **Contact & Social Links**
 📍 **Location:** Mogadishu, Somalia  
 📧 **Email:** alasabdirahman@gmail.com  
-💼 **LinkedIn:** [Your LinkedIn Profile](#)  
 🌐 **Portfolio:** [https://dev-alas.onrender.com](#)  
 
 ---
