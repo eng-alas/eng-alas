@@ -24,20 +24,4 @@
 
 ---
 
-## 🏆 **Certifications & Achievements**
-- 🏅 **Certified Software Developer** – IBM (2023)  
-- 🏅 **Certified Full Stack Developer** – IBM (2023)  
-- 🏆 **Best Innovator of the Year** – Mogadishu (2022)  
-- 🔍 **Certified Machine Learning Developer** – GreatLearning (2021)  
-- 🎯 **Certified IT Project Manager** – IBM (2023)  
-
----
-
-## 📫 **Contact & Social Links**
-📍 **Location:** Mogadishu, Somalia  
-📧 **Email:** alasabdirahman@gmail.com  
-🌐 **Portfolio:** [https://dev-alas.onrender.com](#)  
-
----
-
 🔥 *Let's connect and build amazing things together!*
